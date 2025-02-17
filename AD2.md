@@ -49,10 +49,3 @@ Cette procédure permet de créer une Unité d'Organisation (OU) `rank_students`
    - Faire un clic droit sur l'utilisateur, puis sélectionner **Ajouter au groupe**.
    - Tapez `Students` et ajouter l'utilisateur.
 
----
-
-## Résumé
-
-- Unité d'Organisation `rank_students` créée.
-- Groupe `Students` créé au sein de cette OU.
-- Utilisateur créé et ajouté au groupe `Students`.
