@@ -37,3 +37,14 @@
 7. Vérifier le résumé et cliquer sur "Installer"
 
 8. Redémarrer le serveur après l’installation
+
+### 3. Vérifications post-installation
+
+1. Vérifier le bon fonctionnement d’Active Directory
+    - Ouvrir la console "Utilisateurs et Ordinateurs Active Directory"
+    - Vérifier la présence du domaine wilders.lan
+
+2. Vérifier les services DNS
+    - Ouvrir la console DNS et s’assurer que rank.fr est présent
+
+3. Tester la connexion au domaine avec ping rank.fr
