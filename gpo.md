@@ -42,12 +42,12 @@ Nommer la GPO :
 
 ## 1. Test 1 : Vérification de l'accès au Panneau de configuration pour un utilisateur du groupe Students
 
-    - Se connecter à un poste avec un compte d'utilisateur appartenant au groupe Students.
-    - Essayer d'accéder au Panneau de configuration en cherchant dans le menu Démarrer ou via Exécuter (control).
-    - Si la stratégie est appliquée correctement, l'accès au Panneau de configuration sera bloqué avec un message d'erreur disant que l'accès est restreint.
+- Se connecter à un poste avec un compte d'utilisateur appartenant au groupe Students.
+- Essayer d'accéder au Panneau de configuration en cherchant dans le menu Démarrer ou via Exécuter (control).
+- Si la stratégie est appliquée correctement, l'accès au Panneau de configuration sera bloqué avec un message d'erreur disant que l'accès est restreint.
 
 ## 2. Test 2 : Vérification de l'accès au Panneau de configuration pour un utilisateur non membre du groupe Rank_Students
 
-    - Se connecter à un poste avec un compte d'utilisateur qui n'appartient pas au groupe Students.
-    - Essayer d'accéder au Panneau de configuration. L'accès devrait être autorisé, prouvant que la GPO n'affecte pas les autres utilisateurs.
+- Se connecter à un poste avec un compte d'utilisateur qui n'appartient pas au groupe Students.
+- Essayer d'accéder au Panneau de configuration. L'accès devrait être autorisé, prouvant que la GPO n'affecte pas les autres utilisateurs.
 
