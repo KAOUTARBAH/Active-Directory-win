@@ -47,4 +47,4 @@
 2. Vérifier les services DNS
     - Ouvrir la console DNS et s’assurer que rank.fr est présent
 
-3. Tester la connexion au domaine avec ping rank.fr
+3. Tester la connexion au domaine avec ping et nslookup rank.fr
